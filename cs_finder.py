@@ -4,7 +4,7 @@ Created on Sun Mar 12 21:38:09 2017
 
 Colour Scheme generator using PIL
 
-Objective: to write a Python script which accepts an image as input and finds
+Python script which accepts an image as input and finds
 a colour scheme from that image by creating classes of "similar" colours
 sorted by popularity.
 
